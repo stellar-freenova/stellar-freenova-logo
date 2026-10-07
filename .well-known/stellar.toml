@@ -1,1 +1,6 @@
-
+[[CURRENCIES]]
+code = "XNV"
+issuer = "GAJCT56MAZJRTKWVK5QNIUCBE2Q72R3YRYLTEZNQWP5IYSABNYBIVYJ4"
+name = "FreeNova"
+desc = "FreeNova token"
+image = "https://stellar-freenova.com/6F21C8C1-4E33-4B74-86DF-1B75D7D41A59.png"
