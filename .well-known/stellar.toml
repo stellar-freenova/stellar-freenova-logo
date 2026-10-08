@@ -1,22 +1,13 @@
-VERSION="2.2.1"
-
-ACCOUNTS=[
-"GAJCT56MAZJRTKWVK5QNIUCBE2Q72R3YRYLTEZNQWP5IYSABNYBIVYJ4",
-]
-
 [DOCUMENTATION]
 ORG_NAME="FreeNova"
-ORG_URL="https://stellar-freenova.com/"
-ORG_DESCRIPTION="FreeNova is a global payment and rewards ecosystem built around freedom, digital assets, and everyday payments. Powered by XNV and connected through the NOVA Card, FreeNova is designed to enable users to spend, earn rewards, receive cashback, and participate in a growing global ecosystem."
+ORG_DBA="FreeNova"
+ORG_URL="https://stellar-freenova.com"
 ORG_LOGO="https://stellar-freenova.com/6F21C8C1-4E33-4B74-86DF-1B75D7D41A59.png"
-
 
 [[CURRENCIES]]
 code="XNV"
-status="live"
-display_decimals=3
 issuer="GAJCT56MAZJRTKWVK5QNIUCBE2Q72R3YRYLTEZNQWP5IYSABNYBIVYJ4"
-anchor_asset_type="crypto"
+status="live"
+display_decimals=5
 name="FreeNova"
 desc="FreeNova token"
-image="https://stellar-freenova.com/6F21C8C1-4E33-4B74-86DF-1B75D7D41A59.png"
