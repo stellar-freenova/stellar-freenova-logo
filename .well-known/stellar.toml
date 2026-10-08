@@ -1,13 +1,16 @@
+ACCOUNTS = ["GAJCT56MAZJRTKWVK5QNIUCBE2Q72R3YRYLTEZNQWP5IYSABNYBIVYJ4"]
+
 [DOCUMENTATION]
-ORG_NAME="FreeNova"
-ORG_DBA="FreeNova"
-ORG_URL="https://stellar-freenova.com"
-ORG_LOGO="https://stellar-freenova.com/6F21C8C1-4E33-4B74-86DF-1B75D7D41A59.png"
+ORG_NAME = "FreeNova"
+ORG_DBA = "FreeNova"
+ORG_URL = "https://stellar-freenova.com"
+ORG_LOGO = "https://stellar-freenova.com/6F21C8C1-4E33-4B74-86DF-1B75D7D41A59.png"
 
 [[CURRENCIES]]
-code="XNV"
-issuer="GAJCT56MAZJRTKWVK5QNIUCBE2Q72R3YRYLTEZNQWP5IYSABNYBIVYJ4"
-status="live"
-display_decimals=5
-name="FreeNova"
-desc="FreeNova token"
+code = "XNV"
+issuer = "GAJCT56MAZJRTKWVK5QNIUCBE2Q72R3YRYLTEZNQWP5IYSABNYBIVYJ4"
+status = "live"
+display_decimals = 5
+name = "FreeNova"
+desc = "FreeNova token"
+image = "https://stellar-freenova.com/6F21C8C1-4E33-4B74-86DF-1B75D7D41A59.png"
