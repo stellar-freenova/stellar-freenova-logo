@@ -1,7 +1,7 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GCUVUQD6ZRW75S7JTNTQEU4N7Q6LFIIFK3K4W2DP4GOYQKICDOLNRDWT",
+"GAJCT56MAZJRTKWVK5QNIUCBE2Q72R3YRYLTEZNQWP5IYSABNYBIVYJ4",
 ]
 
 [DOCUMENTATION]
@@ -14,7 +14,7 @@ ORG_LOGO="https://stellar-freenova.com/6F21C8C1-4E33-4B74-86DF-1B75D7D41A59.png"
 code="XNV"
 status="live"
 display_decimals=3
-issuer="GCUVUQD6ZRW75S7JTNTQEU4N7Q6LFIIFK3K4W2DP4GOYQKICDOLNRDWT"
+issuer="GAJCT56MAZJRTKWVK5QNIUCBE2Q72R3YRYLTEZNQWP5IYSABNYBIVYJ4"
 anchor_asset_type="crypto"
 name="FreeNova"
 desc="FreeNova is building a global digital payment and rewards ecosystem designed to make everyday financial participation more accessible, rewarding and free from unnecessary barriers. Our goal is to connect people, payments and digital assets through a simple ecosystem built around the NOVA Card, XNV and user-focused rewards. FreeNova is focused on creating practical utility, greater financial freedom and a seamless way for people to participate in the evolving digital economy."
